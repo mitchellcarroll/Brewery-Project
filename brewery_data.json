@@ -1,0 +1,854 @@
+{
+  "Red Dragon Brewery": [{
+      "name": "Imperial Double Blackberry",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Imperial Blueberry Creamsicle",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Hoppy Zwickle",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "St. Davids Stout",
+      "type": "Stout",
+      "favorite": null
+    },
+    {
+      "name": "Road Rash IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Kilkenny Kolsch",
+      "type": "Craft",
+      "favorite": null
+    },
+    {
+      "name": "Zwickle Lager",
+      "type": "Craft",
+      "favorite": null
+    },
+    {
+      "name": "Daffodil Welsh Ale",
+      "type": "Craft",
+      "favorite": null
+    }
+  ],
+  "Spencer Devon Brewery": [{
+      "name": "3-4-5 Pilsner",
+      "type": "Pilsner",
+      "favorite": null
+    },
+    {
+      "name": "Sunken Road Belgium Blonde",
+      "type": "Blonde Ale",
+      "favorite": null
+    },
+    {
+      "name": "Weisse Wedding Berliner Weisse",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Klompen Kuyt",
+      "type": "Traditional Ale",
+      "favorite": null
+    },
+    {
+      "name": "Preamble Amber",
+      "type": "Red Ale",
+      "favorite": null
+    },
+    {
+      "name": "Dark Age Schwarzbier",
+      "type": "Schwarzbier",
+      "favorite": null
+    },
+    {
+      "name": "Bandwagon Fog IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Fall line Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Laucks Island West Coast IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Rosa Weisse Berline Weisse",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Xquizit Mayan Gold Coffer Cream Ale",
+      "type": "Cream Ale",
+      "favorite": null
+    }
+  ],
+  "Maltese Brewery": [{
+      "name": "Pinapple IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Barnfire Saison",
+      "type": "Farmhouse Ale",
+      "favorite": null
+    },
+    {
+      "name": "Firemans Blonde",
+      "type": "Blonde",
+      "favorite": null
+    },
+    {
+      "name": "Bank Down Vanilla Brown",
+      "type": "Brown Ale",
+      "favorite": null
+    },
+    {
+      "name": "Strawberry Vanilla Ice Cream Ale",
+      "type": "Cream Ale",
+      "favorite": null
+    },
+    {
+      "name": "Hops and Hose IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Straight Stick Saison",
+      "type": "Farmhouse Ale",
+      "favorite": null
+    },
+    {
+      "name": "That's My Sauce - Nitro",
+      "type": "Brown Ale",
+      "favorite": null
+    },
+    {
+      "name": "English Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Side Alpha",
+      "type": "Australia Ale ",
+      "favorite": null
+    }
+  ],
+  "Six Beers & A Goat Brewery": [{
+      "name": "Polar Roller",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Mae West",
+      "type": "Blond Ale",
+      "favorite": null
+    },
+    {
+      "name": "Trop Hours",
+      "type": "American Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "0-Dark Thirty",
+      "type": "Stout",
+      "favorite": null
+    },
+    {
+      "name": "Freedom Fest",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Grateful Double",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "GrapeFruit Double IPA",
+      "type": "Pilsner",
+      "favorite": null
+    },
+    {
+      "name": "Pinapple",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    }
+  ],
+  "Strange Ways Brewery": [{
+      "name": "Hop Howler",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Albino Monkey Belgian White",
+      "type": "Belgian White",
+      "favorite": null
+    },
+    {
+      "name": "Woodbooger Belgian-Style Brown Ale",
+      "type": "Brown Ale",
+      "favorite": null
+    },
+    {
+      "name": "Uberlin Berliner Weisse",
+      "type": "Wheat",
+      "favorite": null
+    },
+    {
+      "name": "Phantasmic Belgian IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Come On, YOu Want to Lei Me Volcanic Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Rappahannock ESB Extra Special Bitter",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "I Cary'd A Watermelon Berliner Weisse",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Everything Changes Double Dry-Hopped Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Playday Pilsner",
+      "type": "Pilsner",
+      "favorite": null
+    },
+    {
+      "name": "Moon Taxi IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Apes In The Hammock Sour Saison",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Cantilever Dark Ale",
+      "type": "Dark Ale",
+      "favorite": null
+    },
+    {
+      "name": "Works Jorts IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Banana Clipper Hoppy Hefe",
+      "type": "Hefeweizen",
+      "favorite": null
+    },
+    {
+      "name": "Forest Gnome Oak-Aged Belgian Golden Ale",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "The Emperor's Forbidden Rice Sake Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Zubizuri Norwegian Farmhouse Ale",
+      "type": "",
+      "favorite": null
+    },
+    {
+      "name": "Not So Common Kentucky Cream Ale",
+      "type": "Cream Ale",
+      "favorite": null
+    },
+    {
+      "name": "Smashburg: Centennial Smash Pale Ale",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Go Go Juice Sour IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Nana Jeane's Spiced Peach Cobbler Belgian Ale",
+      "type": "Belgian Ale",
+      "favorite": null
+    },
+    {
+      "name": "Daily Palmer Iced Tea Lemonade Shandy",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Everlasting Light Lime Kölsch",
+      "type": "Pilsner",
+      "favorite": null
+    },
+    {
+      "name": "Palooza New England IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Helles Frozen Over Munich Helles Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Martian Spring Bière De Mars",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Dr. FouDre I Froudre Ale",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Hey Brett (You Know What Time It Is) Oak Aged Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "There Is A Light That Never Gose Out Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Comfortably Plum American Sour",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "It Gose...Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Wake Me Up Before You Gose Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Rot*In*Hell Pumpkin Sour",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Key Lime Cantilever Key Lime Dark Ale",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Täng Orange Style Berliner Weisse",
+      "type": "Berline Weisse",
+      "favorite": null
+    },
+    {
+      "name": "Canadian Black Maple Tirami'zu Brew Rum Barrel Aged Porter",
+      "type": "Porter",
+      "favorite": null
+    },
+    {
+      "name": "It Gose ... Mangos Mango Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Limeapalooza Key Lime IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Guavapalooza Guava IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "It Gose...Out On A Date Grape Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "It Gose...Beachin' Tropical Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "It Gose...To Fruit Town Cherry/ Pineapple/ Cocount Gose",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Gingerbread Boodwooger IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Chocolate Chai Boodwooger IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Peach BURST! Juice Beer",
+      "type": "Juice Beer",
+      "favorite": null
+    },
+    {
+      "name": "Cherry Phantasmic Belgian White Ale",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Berry Albino Monkey Belgian White Ale",
+      "type": "White Ale",
+      "favorite": null
+    },
+    {
+      "name": "Pineapple BURST! Pineapple Juice Beer",
+      "type": "Juice",
+      "favorite": null
+    },
+    {
+      "name": "Caramel Woodbooger Belgian Style Brown Ale",
+      "type": "Brown Ale",
+      "favorite": null
+    },
+    {
+      "name": "Red Sangria Berliner Weisse",
+      "type": "Berliner Weissee",
+      "favorite": null
+    }
+  ],
+  "2 Silos Brewery": [{
+      "name": "Virginia Cream Ale",
+      "type": "Cream Ale",
+      "favorite": null
+    },
+    {
+      "name": "Mason Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Old Dominion Imperial Stout",
+      "type": "Stout",
+      "favorite": null
+    },
+    {
+      "name": "Nova White Belgiam",
+      "type": "Begliam",
+      "favorite": null
+    },
+    {
+      "name": "Commonwealth Black IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Silobration",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Battlefield Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Bill-iner Weisse Sour",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "West Coast IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Planet Druidia Galaxy IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Saison",
+      "type": "Saison",
+      "favorite": null
+    }
+  ],
+  "Mustang Sally Brewing Co.": [{
+      "name": "Article One Amerber Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Better Angels IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Original Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "DIPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Dry-Hopped Saison",
+      "type": "Saison",
+      "favorite": null
+    },
+    {
+      "name": "Fruited Kettle Sour",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Festbier / Octoberfest",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Coffee VAnilla Porter",
+      "type": "Porter",
+      "favorite": null
+    }
+  ],
+  "Fair Winds Brewing Co.": [{
+      "name": "Quayside Kolsch",
+      "type": "Golden Ale",
+      "favorite": null
+    },
+    {
+      "name": "Howling Gale IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Siren's Lure",
+      "type": "Saison",
+      "favorite": null
+    },
+    {
+      "name": "Sessions In The Abyss",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Home Port Stout",
+      "type": "Sout",
+      "favorite": null
+    },
+    {
+      "name": "Bulkhead Brown",
+      "type": "Brown Ale",
+      "favorite": null
+    },
+    {
+      "name": "Hells Navigator",
+      "type": "Bock",
+      "favorite": null
+    },
+    {
+      "name": "Quarterdeck Vienna Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Double Decker",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Horde IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Quarterdeck Red Ale",
+      "type": "Red Ale",
+      "favorite": null
+    },
+    {
+      "name": "Accotink Alt",
+      "type": "Dusseldorf",
+      "favorite": null
+    }
+  ],
+  "Port City Brewing Co.": [{
+      "name": "Optimal Wit",
+      "type": "Belgian Style",
+      "favorite": null
+    },
+    {
+      "name": "Downright Pilsner",
+      "type": "Pilsner",
+      "favorite": null
+    },
+    {
+      "name": "Essential Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Monumental IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Port City Porter",
+      "type": "Porter",
+      "favorite": null
+    },
+    {
+      "name": "Integral IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Ways & Means",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Maniacal Double IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Metro Red",
+      "type": "Red Ale",
+      "favorite": null
+    },
+    {
+      "name": "Tartan Ale",
+      "type": "Scottish Ale",
+      "favorite": null
+    },
+    {
+      "name": "Ideaal Tripel",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Derecho Common",
+      "type": "Pislner",
+      "favorite": null
+    },
+    {
+      "name": "Oktoberfest",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Long Black Veil",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Tidings Ale",
+      "type": "Blonde Ale",
+      "favorite": null
+    }
+  ],
+  "Mad Fox Brewery": [{
+      "name": "Kellerbier Kolsch",
+      "type": "German Style Ale",
+      "favorite": null
+    },
+    {
+      "name": "Altbier",
+      "type": "German Style Ale",
+      "favorite": null
+    },
+    {
+      "name": "Senor Franco's Especial Lager",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "Lindy's Weiss",
+      "type": "Hefeweizen",
+      "favorite": null
+    },
+    {
+      "name": "English Summer Ale",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Defender APA",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "What the Fox! NEIPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Broad Street IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Humdinger Berliner Weisse",
+      "type": "Weisse",
+      "favorite": null
+    },
+    {
+      "name": "St. James Irish Dry Stout",
+      "type": "Stout",
+      "favorite": null
+    },
+    {
+      "name": "Batch 900",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Barrel-Aged Batch 900",
+      "type": "Pislner",
+      "favorite": null
+    },
+    {
+      "name": "Wee Heavy",
+      "type": "Scotch Ale",
+      "favorite": null
+    }
+  ],
+  "Heritage Brewing Co.": [{
+      "name": "Force Multiplier",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Kings Mountain",
+      "type": "Scotch Ale",
+      "favorite": null
+    },
+    {
+      "name": "Civil Works",
+      "type": "Lager",
+      "favorite": null
+    },
+    {
+      "name": "King's Mountain",
+      "type": "Scotch Ale",
+      "favorite": null
+    },
+    {
+      "name": "Revolution",
+      "type": "Amber Ale",
+      "favorite": null
+    },
+    {
+      "name": "American Expedition",
+      "type": "Wheat Ale",
+      "favorite": null
+    },
+    {
+      "name": "Bradford",
+      "type": "Harvest Ale",
+      "favorite": null
+    },
+    {
+      "name": "Edison's Lost Invention",
+      "type": "Grand Cru",
+      "favorite": null
+    },
+    {
+      "name": "The Battle of White Marsh",
+      "type": "Belgian Ale",
+      "favorite": null
+    },
+    {
+      "name": "1783",
+      "type": "Ale",
+      "favorite": null
+    },
+    {
+      "name": "Freedom Isn't Free",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Lime American Expedition",
+      "type": "Barrel Aged",
+      "favorite": null
+    }
+  ],
+  "Bad Wolf Brewery": [{
+      "name": "Birdie's Pale Ale",
+      "type": "Pale Ale",
+      "favorite": null
+    },
+    {
+      "name": "Mabel's Mystery Milk Stout",
+      "type": "Sout",
+      "favorite": null
+    },
+    {
+      "name": "Lollar Back Red IPA",
+      "type": "IPA",
+      "favorite": null
+    },
+    {
+      "name": "Red Rocket Raspberry Heffe",
+      "type": "Hefeweizen",
+      "favorite": null
+    },
+    {
+      "name": "Oncoming Storm",
+      "type": "Beglian Ale",
+      "favorite": null
+    },
+    {
+      "name": "Tart-ist Also",
+      "type": "Sour",
+      "favorite": null
+    },
+    {
+      "name": "Btl. I'm Leaving You For Brett",
+      "type": "Farmhouse Ale",
+      "favorite": null
+    },
+    {
+      "name": "Btl. Radegast",
+      "type": "Porter",
+      "favorite": null
+    }
+  ]
+}
